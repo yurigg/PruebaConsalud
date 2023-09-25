@@ -1,0 +1,15 @@
+C:\Proyectos\CONSALUD\01-ApplicationLayer\CONSALUD.Prueba.WebAPI.AccessAuthorization\bin\Debug\net6.0\CONSALUD.Prueba.WebAPI.AccessAuthorization.deps.json
+C:\Proyectos\CONSALUD\01-ApplicationLayer\CONSALUD.Prueba.WebAPI.AccessAuthorization\bin\Debug\net6.0\CONSALUD.Prueba.WebAPI.AccessAuthorization.dll
+C:\Proyectos\CONSALUD\01-ApplicationLayer\CONSALUD.Prueba.WebAPI.AccessAuthorization\bin\Debug\net6.0\CONSALUD.Prueba.WebAPI.AccessAuthorization.pdb
+C:\Proyectos\CONSALUD\01-ApplicationLayer\CONSALUD.Prueba.WebAPI.AccessAuthorization\bin\Debug\net6.0\CONSALUD.Prueba.WebAPI.DTO.dll
+C:\Proyectos\CONSALUD\01-ApplicationLayer\CONSALUD.Prueba.WebAPI.AccessAuthorization\bin\Debug\net6.0\CONSALUD.Prueba.WebAPI.DTO.pdb
+C:\Proyectos\CONSALUD\01-ApplicationLayer\CONSALUD.Prueba.WebAPI.AccessAuthorization\obj\Debug\net6.0\CONSALUD.Prueba.WebAPI.AccessAuthorization.csproj.AssemblyReference.cache
+C:\Proyectos\CONSALUD\01-ApplicationLayer\CONSALUD.Prueba.WebAPI.AccessAuthorization\obj\Debug\net6.0\CONSALUD.Prueba.WebAPI.AccessAuthorization.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\CONSALUD\01-ApplicationLayer\CONSALUD.Prueba.WebAPI.AccessAuthorization\obj\Debug\net6.0\CONSALUD.Prueba.WebAPI.AccessAuthorization.AssemblyInfoInputs.cache
+C:\Proyectos\CONSALUD\01-ApplicationLayer\CONSALUD.Prueba.WebAPI.AccessAuthorization\obj\Debug\net6.0\CONSALUD.Prueba.WebAPI.AccessAuthorization.AssemblyInfo.cs
+C:\Proyectos\CONSALUD\01-ApplicationLayer\CONSALUD.Prueba.WebAPI.AccessAuthorization\obj\Debug\net6.0\CONSALUD.Prueba.WebAPI.AccessAuthorization.csproj.CoreCompileInputs.cache
+C:\Proyectos\CONSALUD\01-ApplicationLayer\CONSALUD.Prueba.WebAPI.AccessAuthorization\obj\Debug\net6.0\CONSALUD.Prueba.WebAPI.AccessAuthorization.csproj.CopyComplete
+C:\Proyectos\CONSALUD\01-ApplicationLayer\CONSALUD.Prueba.WebAPI.AccessAuthorization\obj\Debug\net6.0\CONSALUD.Prueba.WebAPI.AccessAuthorization.dll
+C:\Proyectos\CONSALUD\01-ApplicationLayer\CONSALUD.Prueba.WebAPI.AccessAuthorization\obj\Debug\net6.0\refint\CONSALUD.Prueba.WebAPI.AccessAuthorization.dll
+C:\Proyectos\CONSALUD\01-ApplicationLayer\CONSALUD.Prueba.WebAPI.AccessAuthorization\obj\Debug\net6.0\CONSALUD.Prueba.WebAPI.AccessAuthorization.pdb
+C:\Proyectos\CONSALUD\01-ApplicationLayer\CONSALUD.Prueba.WebAPI.AccessAuthorization\obj\Debug\net6.0\ref\CONSALUD.Prueba.WebAPI.AccessAuthorization.dll

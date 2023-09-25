@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\build\CONSALUD.Prueba.WebAPI.props" />
+</Project>

@@ -1,0 +1,35 @@
+[
+  {
+    "NumeroDocumento": 1569.0,
+    "RUTVendedor": 21979000.0,
+    "DvVendedor": "7",
+    "RUTComprador": 11488103.0,
+    "DvComprador": "1",
+    "DireccionComprador": "Direccion 1",
+    "ComunaComprador": 65.0,
+    "RegionComprador": 13.0,
+    "TotalFactura": 0.0
+  },
+  {
+    "NumeroDocumento": 1570.0,
+    "RUTVendedor": 8796626.0,
+    "DvVendedor": "7",
+    "RUTComprador": 21595854.0,
+    "DvComprador": "k",
+    "DireccionComprador": "Direccion 2",
+    "ComunaComprador": 65.0,
+    "RegionComprador": 13.0,
+    "TotalFactura": 0.0
+  },
+  {
+    "NumeroDocumento": 1571.0,
+    "RUTVendedor": 21979000.0,
+    "DvVendedor": "7",
+    "RUTComprador": 6584588.0,
+    "DvComprador": "1",
+    "DireccionComprador": "Direccion 3",
+    "ComunaComprador": 78.0,
+    "RegionComprador": 13.0,
+    "TotalFactura": 0.0
+  }
+]

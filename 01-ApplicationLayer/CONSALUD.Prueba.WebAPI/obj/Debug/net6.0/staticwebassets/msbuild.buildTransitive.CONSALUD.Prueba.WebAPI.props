@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\CONSALUD.Prueba.WebAPI.props" />
+</Project>

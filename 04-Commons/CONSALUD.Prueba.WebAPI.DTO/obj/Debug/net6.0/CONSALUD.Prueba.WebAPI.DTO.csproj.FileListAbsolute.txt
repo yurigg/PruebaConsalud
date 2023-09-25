@@ -1,0 +1,11 @@
+C:\Proyectos\CONSALUD\04-Commons\CONSALUD.Prueba.WebAPI.DTO\bin\Debug\net6.0\CONSALUD.Prueba.WebAPI.DTO.deps.json
+C:\Proyectos\CONSALUD\04-Commons\CONSALUD.Prueba.WebAPI.DTO\bin\Debug\net6.0\CONSALUD.Prueba.WebAPI.DTO.dll
+C:\Proyectos\CONSALUD\04-Commons\CONSALUD.Prueba.WebAPI.DTO\bin\Debug\net6.0\CONSALUD.Prueba.WebAPI.DTO.pdb
+C:\Proyectos\CONSALUD\04-Commons\CONSALUD.Prueba.WebAPI.DTO\obj\Debug\net6.0\CONSALUD.Prueba.WebAPI.DTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\Proyectos\CONSALUD\04-Commons\CONSALUD.Prueba.WebAPI.DTO\obj\Debug\net6.0\CONSALUD.Prueba.WebAPI.DTO.AssemblyInfoInputs.cache
+C:\Proyectos\CONSALUD\04-Commons\CONSALUD.Prueba.WebAPI.DTO\obj\Debug\net6.0\CONSALUD.Prueba.WebAPI.DTO.AssemblyInfo.cs
+C:\Proyectos\CONSALUD\04-Commons\CONSALUD.Prueba.WebAPI.DTO\obj\Debug\net6.0\CONSALUD.Prueba.WebAPI.DTO.csproj.CoreCompileInputs.cache
+C:\Proyectos\CONSALUD\04-Commons\CONSALUD.Prueba.WebAPI.DTO\obj\Debug\net6.0\CONSALUD.Prueba.WebAPI.DTO.dll
+C:\Proyectos\CONSALUD\04-Commons\CONSALUD.Prueba.WebAPI.DTO\obj\Debug\net6.0\refint\CONSALUD.Prueba.WebAPI.DTO.dll
+C:\Proyectos\CONSALUD\04-Commons\CONSALUD.Prueba.WebAPI.DTO\obj\Debug\net6.0\CONSALUD.Prueba.WebAPI.DTO.pdb
+C:\Proyectos\CONSALUD\04-Commons\CONSALUD.Prueba.WebAPI.DTO\obj\Debug\net6.0\ref\CONSALUD.Prueba.WebAPI.DTO.dll

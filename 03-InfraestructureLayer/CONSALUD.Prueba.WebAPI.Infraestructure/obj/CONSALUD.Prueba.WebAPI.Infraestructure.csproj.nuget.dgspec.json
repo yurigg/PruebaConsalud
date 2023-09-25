@@ -1,0 +1,140 @@
+{
+  "format": 1,
+  "restore": {
+    "C:\\Proyectos\\CONSALUD\\03-InfraestructureLayer\\CONSALUD.Prueba.WebAPI.Infraestructure\\CONSALUD.Prueba.WebAPI.Infraestructure.csproj": {}
+  },
+  "projects": {
+    "C:\\Proyectos\\CONSALUD\\03-InfraestructureLayer\\CONSALUD.Prueba.WebAPI.Infraestructure\\CONSALUD.Prueba.WebAPI.Infraestructure.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos\\CONSALUD\\03-InfraestructureLayer\\CONSALUD.Prueba.WebAPI.Infraestructure\\CONSALUD.Prueba.WebAPI.Infraestructure.csproj",
+        "projectName": "CONSALUD.Prueba.WebAPI.Infraestructure",
+        "projectPath": "C:\\Proyectos\\CONSALUD\\03-InfraestructureLayer\\CONSALUD.Prueba.WebAPI.Infraestructure\\CONSALUD.Prueba.WebAPI.Infraestructure.csproj",
+        "packagesPath": "C:\\Users\\56983\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos\\CONSALUD\\03-InfraestructureLayer\\CONSALUD.Prueba.WebAPI.Infraestructure\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\56983\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {
+              "C:\\Proyectos\\CONSALUD\\04-Commons\\CONSALUD.Prueba.WebAPI.DTO\\CONSALUD.Prueba.WebAPI.DTO.csproj": {
+                "projectPath": "C:\\Proyectos\\CONSALUD\\04-Commons\\CONSALUD.Prueba.WebAPI.DTO\\CONSALUD.Prueba.WebAPI.DTO.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "dependencies": {
+            "Microsoft.AspNetCore.Hosting.Abstractions": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
+            "Microsoft.Extensions.Options": {
+              "target": "Package",
+              "version": "[7.0.1, )"
+            },
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.3, )"
+            },
+            "System.Collections": {
+              "target": "Package",
+              "version": "[4.3.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "C:\\Proyectos\\CONSALUD\\04-Commons\\CONSALUD.Prueba.WebAPI.DTO\\CONSALUD.Prueba.WebAPI.DTO.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Proyectos\\CONSALUD\\04-Commons\\CONSALUD.Prueba.WebAPI.DTO\\CONSALUD.Prueba.WebAPI.DTO.csproj",
+        "projectName": "CONSALUD.Prueba.WebAPI.DTO",
+        "projectPath": "C:\\Proyectos\\CONSALUD\\04-Commons\\CONSALUD.Prueba.WebAPI.DTO\\CONSALUD.Prueba.WebAPI.DTO.csproj",
+        "packagesPath": "C:\\Users\\56983\\.nuget\\packages\\",
+        "outputPath": "C:\\Proyectos\\CONSALUD\\04-Commons\\CONSALUD.Prueba.WebAPI.DTO\\obj\\",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "C:\\Users\\56983\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net6.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net6.0": {
+            "targetAlias": "net6.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net6.0": {
+          "targetAlias": "net6.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
